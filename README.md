@@ -19,6 +19,9 @@ Workout_Frequency (days/week) , Experience_Level , BMI
 * 4 การออกกําลังกายแต่ละแบบเฉลี่ยแล้ว เผาผลาญแคลอรี่เท่าไหร่ ? โดยใช้  **DATA VISUALIZATION CHARTS Column + Line**
 
 
+เครดิต ชุดข้อมูล Seyed Vala Khorasani
+
+
 
 
 
