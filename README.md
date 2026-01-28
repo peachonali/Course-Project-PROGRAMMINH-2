@@ -22,6 +22,11 @@ Workout_Frequency (days/week) , Experience_Level , BMI
 เครดิต ชุดข้อมูล Seyed Vala Khorasani
 
 
+# เขียนจาก website Google Colab
+
+
+
+
 
 
 
